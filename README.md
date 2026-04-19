@@ -48,7 +48,8 @@ Proyek ini menggunakan **Fake News Dataset** dari Kaggle yang terdiri dari 6.335
     AWS_DEFAULT_REGION=your_region
     S3_BUCKET_NAME=your_bucket_name
     ```
-4.  Jalankan notebook pada folder `notebooks/` untuk memulai pipeline.
+4.  Jalankan notebook pada folder `notebooks/` di aws sagemaker untuk memulai pipeline.
+![Notebook pada AWS Sagemaker](https://i.imgur.com/0jVa9kM.png)
 
 ## 📺 Demo & Hasil
 
